@@ -1,0 +1,25 @@
+/*! tailwindcss v4.1.16 | MIT License | https://tailwindcss.com */
+.flex {
+  display: flex;
+}
+.h-\[50\%\] {
+  height: 50%;
+}
+.w-\[50\%\] {
+  width: 50%;
+}
+.w-\[100\%\] {
+  width: 100%;
+}
+.justify-center {
+  justify-content: center;
+}
+.gap-\[2\%\] {
+  gap: 2%;
+}
+.gap-\[2\] {
+  gap: 2;
+}
+.gap-\[3\%\] {
+  gap: 3%;
+}
